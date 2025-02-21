@@ -7,6 +7,7 @@ body {
 }
 
 
+
 h1 {
     color:darkgreen;
     margin-left: 20px;
@@ -28,3 +29,8 @@ h1 {
     font-family: Impact;
 }
 
+.quarter-iframe {
+    width: 50vw; /* 50% of the viewport width */
+    height: 50vh; /* 50% of the viewport height */
+    border: 1px solid #000; /* Optional: Adds a border to the iframe */
+}
