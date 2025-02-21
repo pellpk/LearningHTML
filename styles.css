@@ -1,0 +1,30 @@
+body {
+    background-image: url("images/car.webp");
+    background-repeat: no-repeat;
+    background-size: initial;
+    background-attachment: scroll;
+    background-position-x: 200px;
+}
+
+
+h1 {
+    color:darkgreen;
+    margin-left: 20px;
+}
+
+#orange-paragraph {
+    color: orange;
+}
+
+#blue-paragraph {
+    color:blue;
+}
+
+.forty {
+    font-size: 40px
+}
+
+.font-impact {
+    font-family: Impact;
+}
+
